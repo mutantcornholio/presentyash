@@ -2,6 +2,7 @@
   "name": "presentyash",
   "version": "1.0.0",
   "description": "A nice presentation viewer",
+  "repository": "https://github.com/mutantcornholio/presentyash",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.11.1",
-    "jsrender": "0.0.3",
+    "markup-js": "^1.5.21",
     "socket.io": "^1.3.4"
   }
 }
