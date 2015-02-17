@@ -1,4 +1,4 @@
-# presentyash
+# Presentyash
 A nice presentation viewer
 
 Working demo is here: http://presentyash.mcornholio.ru (if it is not working, tell me)
